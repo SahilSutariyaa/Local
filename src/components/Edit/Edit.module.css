@@ -1,0 +1,12 @@
+.btn {
+    margin: auto;
+}
+
+.btn button {
+    font-size: 20px;
+    margin: 15px;
+    color: #fff;
+    background-color: rosybrown;
+    height: 50px;
+    width: 150px;
+}
